@@ -1,1 +1,5 @@
-# Examen-Final
+El proyecto consiste en un Sistema de Gestión de Productos, que incluye un módulo de inicio de sesión (login), un apartado de registro y un menú principal. En el apartado de login, los usuarios existentes podrán acceder a sus cuentas de manera segura. El módulo de registro permitirá a nuevos usuarios crear cuentas al ingresar los datos necesarios y validar la información para garantizar la seguridad. Tras iniciar sesión, los usuarios serán dirigidos al menú principal, donde se les dará la bienvenida con un mensaje personalizado.
+
+El menú principal está compuesto por un topbar y un sidebar. El sidebar puede ocultarse mediante un botón de menú, mientras que en el topbar se encuentra un botón desplegable que muestra un saludo con el nombre del usuario que ha iniciado sesión, además de ofrecer la opción para cerrar sesión.
+
+En el sidebar, se encuentra la sección de productos, que presenta una lista de artículos con cinco botones clave: generar PDF, actualizar página, agregar productos, modificar productos y eliminar productos. También incluye casillas de verificación (checkbox) que permiten seleccionar únicamente los productos que se desean incluir en el PDF generado.
